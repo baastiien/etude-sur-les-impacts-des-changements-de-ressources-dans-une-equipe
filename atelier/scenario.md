@@ -35,6 +35,7 @@ Les sets contiennent le modèle à construire avec le set et les éléments de q
 
 - un set
 - une règle de jeu
+  - flux de travail (montage, vérification qualité, fix & vérification si nécessaire, démontage)
 - une grille de mesure pour le moniteur(/mesureur ?) (tableau par itération + papier millimétrique) avec au dos, exemple de ce qu'il pourrait se passer dans l'équipe
 - un stylo 4 couleurs pour faire des courbes de couleur différente
 - un porte-bloc à pince pour le moniteur(/mesureur ?)
@@ -64,6 +65,8 @@ Entreprise de production de jouets déjà construits pour enfants impatients.
 
 - Les produits construits et validés conformes sont la valeur délivrée par l'entreprise
 - L'entreprise a pour but de maximiser sa valeur produite
+
+L'entreprise travaille dans un univers fini et nous recyclons nos anciens produits (démontage complet des produits construits).
 
 ### Démarrage
 
